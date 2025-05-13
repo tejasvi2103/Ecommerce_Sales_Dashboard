@@ -12,6 +12,10 @@ This project is an interactive Power BI dashboard for analyzing e-commerce sales
 - Insights into total sales, units sold, and top-performing products
 - Interactive slicers and filters for custom exploration
 - Clean and professional layout using Power BI best practices
+  
+## Dashboard Preview
+
+![Dashboard](https://github.com/tejasvi2103/Ecommerce_Sales_Dashboard/blob/main/dashboard-preview.png)
 
 ## Screenshots
 
